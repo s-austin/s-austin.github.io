@@ -1,7 +1,10 @@
 # s-austin.github.io
-### Source Code based on Mozilla Developer Network | Using the Web Audio API
+
+## A Very Special Playground for a Very Special Child. 
+## Using: Violent Theremin | https://github.com/mdn/violent-theremin
+
+### This page uses a gorgeous example of the Web Audio API shown on Mozilla Developer Network Page | Using the Web Audio API
 #### https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API
 
-##### Mozilla's gorgeous example "application developed specifically to demonstrate the Web Audio API is the Violent Theremin, a simple web application that allows you to change pitch and volume by moving your mouse pointer."
+##### Mozilla's gorgeous example "application developed specifically to demonstrate the Web Audio API is the Violent Theremin, a simple web application that allows you to change pitch and volume by moving your mouse pointer.".   I've done none of the code here, I simply put it up for a child with autism. 
 
-##### I'm putting here as a web page for a beloved child with autism.  He will absolutely lose himself with happiness in this page.   Thank you, Mozilla!
